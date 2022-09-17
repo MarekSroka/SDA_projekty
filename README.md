@@ -1,6 +1,3 @@
-# Final_sda_project
-
-
 
 **Prediction of debt repayments as an important part of the debt portfolio valuation process**
 
