@@ -72,6 +72,10 @@ MODELS AND RESULTS
      and log scaler to minimize skewness and transformation of data**
    
    Final RMSE for DecisionTreeRegressor: 10174.0
+   
+![image](https://user-images.githubusercontent.com/96497973/190902976-70802028-31d5-4917-bf94-cc5d1228221f.png)
+
+![image](https://user-images.githubusercontent.com/96497973/190902984-ca67909f-c733-4500-8689-629ea65baeff.png)
 
 ![image](https://user-images.githubusercontent.com/96497973/190902807-cbed1fac-41c9-4b29-8566-bd5e647c0fbd.png)
 
